@@ -2,9 +2,9 @@
 👥 HR Analytics Dashboard
 **Power BI · DAX · Human Resources · Employee Attrition Analysis**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-7B2D8B?style=flat)
-![HR Analytics](https://img.shields.io/badge/HR%20Analytics-9D174D?style=flat)
+![Power BI]()
+![DAX]()
+![HR Analytics]()
 
 ---
 
@@ -84,7 +84,7 @@ Both measures respond dynamically to the Education filter (Associates · Bachelo
 
 ## 🖼️ Dashboard Preview
 
-![HR Analytics Dashboard](HR_Analytics.png?raw=true)
+![HR Analytics Dashboard]()
 
 ---
 
