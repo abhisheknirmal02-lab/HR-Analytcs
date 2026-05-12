@@ -2,9 +2,9 @@
 👥 HR Analytics Dashboard
 **Power BI · DAX · Human Resources · Employee Attrition Analysis**
 
-![Power BI]()
-![DAX]()
-![HR Analytics]()
+![Power BI Dashboard](https://github.com/abhisheknirmal02-lab/HR-Analytcs/blob/main/HR%20Anaytics.pbit)
+![DAX Code](https://github.com/abhisheknirmal02-lab/HR-Analytcs/blob/main/HR%20Analatics%20DAX.xlsx)
+![HR Analytics Data](https://github.com/abhisheknirmal02-lab/HR-Analytcs/blob/main/HR%20Analatics.csv)
 
 ---
 
@@ -77,14 +77,14 @@ Both measures respond dynamically to the Education filter (Associates · Bachelo
 
 | File | Description |
 |---|---|
-| `HR_Analytics.pbit` | Power BI template — single-page interactive dashboard |
+| ![HR Analytics Dashboard](https://github.com/abhisheknirmal02-lab/HR-Analytcs/blob/main/HR%20Anaytics.pbit) | Power BI template — single-page interactive dashboard |
 | `HR_Analatics_DAX.xlsx` | DAX measures documented |
 
 ---
 
 ## 🖼️ Dashboard Preview
 
-![HR Analytics Dashboard]()
+![HR Analytics Dashboard](https://github.com/abhisheknirmal02-lab/HR-Analytcs/blob/main/HR%20Analytics.png)
 
 ---
 
