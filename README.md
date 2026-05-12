@@ -78,7 +78,7 @@ Both measures respond dynamically to the Education filter (Associates · Bachelo
 | File | Description |
 |---|---|
 | ![HR Analytics Dashboard](https://github.com/abhisheknirmal02-lab/HR-Analytcs/blob/main/HR%20Anaytics.pbit) | Power BI template — single-page interactive dashboard |
-| `HR_Analatics_DAX.xlsx` | DAX measures documented |
+| `HR_Analatics_DAX.xlsx`[](https://github.com/abhisheknirmal02-lab/HR-Analytcs/blob/main/HR%20Analatics%20DAX.xlsx) | DAX measures documented |
 
 ---
 
