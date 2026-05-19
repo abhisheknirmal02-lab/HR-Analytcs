@@ -1,4 +1,3 @@
-# HR-Analytcs
 👥 HR Analytics Dashboard
 **Power BI · DAX · Human Resources · Employee Attrition Analysis**
 
